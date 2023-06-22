@@ -1,11 +1,16 @@
 _repo: A-memoir-of-Miss-Hannah-Adams_70930
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70930-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, Hannah
     gutenberg_agent_id: '55999'
     url: http://www.gutenberg.org/2009/agents/55999
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70930#A-memoir-of-Miss-Hannah-Adams
 gutenberg_issued: '2023-06-07'
 identifiers:
   gutenberg: '70930'
